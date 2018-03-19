@@ -48,6 +48,7 @@ This application demonstrates how Spring-boot application can be dockarized and 
   URL : localhost:8080/arsenal/players
   
   Response:
+  ```
   [
     {
 	"number": 10,
@@ -70,5 +71,6 @@ This application demonstrates how Spring-boot application can be dockarized and 
         "name": "Mesut Ozil"
     }
   ]
+  ```
   
   -> If you are getting above mentioned response, then we have successfully integrated docker with our Spring-boot application.
