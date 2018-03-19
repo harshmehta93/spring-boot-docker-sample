@@ -4,7 +4,7 @@ This application demonstrates how Spring-boot application can be dockarized and 
 
 -> I have used maven plugin which creates docker image for the Spring-boot application while we are building the project.
 
-<build>
+	<build>
 		<finalName>app</finalName>
 		<plugins>
 			<plugin>
